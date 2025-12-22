@@ -40,3 +40,6 @@ player statistics, and match outcomes.
 Samarth More  
 GitHub: https://github.com/samarthmore2004  
 LinkedIn: <your-link>
+![Dashboard](Images/dashboard_overview.png)
+
+
