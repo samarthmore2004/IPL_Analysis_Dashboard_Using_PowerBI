@@ -41,7 +41,8 @@ Samarth More
 GitHub: https://github.com/samarthmore2004  
 LinkedIn: https://www.linkedin.com/posts/samarthmore05_powerbi-dataanalytics-ipl-activity-7404577577064923136-ANGH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEfm2VgB4l4ER-vJZDQQ6pQC4E35jAcvYgs 
 
-![Dashboard](Images/dashboard_overview.png)
+![Dashboard](Images/Screenshot 2025-12-10 231635.png)
+
 
 
 
