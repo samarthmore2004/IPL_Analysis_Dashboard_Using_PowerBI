@@ -16,7 +16,7 @@ player statistics, and match outcomes.
 - Total Wickets
 - Total 4s & 6s
 - Orange Cap & Purple Cap Holders
-- Player of the Match analysis
+- Player of the Match analysis 
 
 ## 📈 Dashboard Features
 - Dynamic slicers for Batsman & Bowler selection
